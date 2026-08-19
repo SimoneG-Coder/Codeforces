@@ -31,7 +31,6 @@ int main() {
             }
             if (cnt2 >= 2) possible = true;
         }
-
         cout << (possible ? "YES\n" : "NO\n");
     }
     return 0;
